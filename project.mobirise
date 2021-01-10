@@ -54,7 +54,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 234,
+    "uniqCompNum": 238,
     "versionPublish": "5.2.5",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -154,6 +154,40 @@
           "_once": false,
           "_params": {},
           "_anchor": "features7-6e"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Latest Resources</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">TENDER № 10969/1/2/M1 - (10969-001-2040-R-0002 RevT1 - Vehicles Specification)</h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><a href=\"assets/files/01-Cover-Page.pdf\" class=\"text-primary\">Cover Page</a><br><a href=\"assets/files/01-Cover-Page.pdf\" class=\"text-primary\"></a><a href=\"assets/files/02-Part-T1-Tendering-Procedure.pdf\" class=\"text-primary\" target=\"_blank\">Tendering Procedure</a><br><a href=\"assets/files/01-Cover-Page.pdf\" class=\"text-primary\"></a><a href=\"assets/files/10969-001-2040-R-0002-RevT1-Vehicles-Specification-incl-annex.pdf\" class=\"text-primary\" target=\"_blank\">Vehicles Specification- incl annex</a><br><a href=\"assets/files/01-Cover-Page.pdf\" class=\"text-primary\"></a><a href=\"assets/files/10969-002-4054-D-0001-Rev01-M1-Vehicles-Data-Sheet.xlsx\" class=\"text-primary\" target=\"_blank\"></a><a href=\"assets/files/10969-002-4054-D-0001-Rev01-M1-Vehicles-Data-Sheet.xlsx\" class=\"text-primary\" target=\"_blank\">Vehicles Specification</a><br>M1 Vehicles Data Sheet<br><a href=\"assets/files/01-Cover-Page.pdf\" class=\"text-primary\"></a><a href=\"assets/files/Website-Tender-notice-HEAVY-DUTY-CANE-AND-WAGON-HANDLING-VEHICLES.pdf\" class=\"text-primary\" target=\"_blank\">HEAVY-DUTY CANE AND WAGON HANDLING VEHICLES<br></a><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "slHPWusb5H",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content5-6k"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">10969/1/2/C1 - Roadworks, Building Renovations, Hilo Unloader</h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><a href=\"assets/files/01-Cover-Page-2.pdf\" class=\"text-primary\" target=\"_blank\">Cover Page</a><br><a href=\"assets/files/02-Part-T1-Tendering-Procedure-002.pdf\" class=\"text-primary\" target=\"_blank\">Tendering Procedure</a><br><a href=\"assets/files/03-Part-T2-Returnable-Docs-1.pdf\" class=\"text-primary\" target=\"_blank\">Returnable Docs</a><br><a href=\"assets/files/04-Part-C1-Contract-agreement.pdf\" class=\"text-primary\" target=\"_blank\">Contract agreement [C1.1] and contract data [C1.2] (Yellow) – C</a><br><a href=\"assets/files/06-Part-C3.1-Scope-of-Works-Blue-1.pdf\" class=\"text-primary\" target=\"_blank\">Scope of Works (Blue)</a><br><a href=\"assets/files/06-Part-C4-Site-Information-Green-1.pdf\" class=\"text-primary\" target=\"_blank\">Site Information (Green)</a><br><a href=\"assets/files/07-Part-C5-Drawings-White.pdf\" class=\"text-primary\" target=\"_blank\">Drawings (White)</a><br><a href=\"assets/files/1096912C1-Roads-and-Buildings-.pdf\" class=\"text-primary\" target=\"_blank\">Roads and Buildings</a><br><a href=\"assets/files/BP-CL-010-1.pdf\" class=\"text-primary\" target=\"_blank\">BP-CL-010</a><br><a href=\"assets/files/Website-Tender-notice-Construction-of-transloading-Facility-1.pdf\" class=\"text-primary\" target=\"_blank\">Website Tender notice Construction of transloading Facility</a><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "slHQSzHKQy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content5-6l"
         },
         {
           "alias": false,
